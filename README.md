@@ -1,6 +1,6 @@
+[![CircleCI](https://circleci.com/gh/rdwns/housepriceapi.svg?style=svg)](https://circleci.com/gh/rdwns/housepriceapi)
+
 ## Project Overview
-
-
 
 In this project, I applied the knowledge of Containers & Kubernetes to operationalize a Machine Learning Microservice API.
 
