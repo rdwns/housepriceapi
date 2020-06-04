@@ -1,0 +1,6 @@
+(.p4) ridwan@T-802:~/projects/udacity/chap5/project-ml-microservice-kubernetes$ sudo ./run_kubernetes.sh
+NAME                            READY   STATUS    RESTARTS   AGE
+housepriceapi                   1/1     Running   0          5m1s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
